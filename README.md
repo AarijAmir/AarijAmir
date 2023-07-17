@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/81/52/58/81525851413fac11dca44e57076b396a.gif)](https://www.linkedin.com/in/aarij-amir-1b9a28174/)
 <h1 align="center">Hi 👋, I'm Aarij Amir</h1>
-<h3 align="center">A passionate in Data Structures & Algorithm</h3> a
+<h3 align="center">Experienced in data structures, OOP, database design, algorithms. Proficient in Flutter mobile app development and Node.js backend development. Skilled in creating efficient data models, implementing clean code, and optimizing query performance. Strong problem-solving abilities and a passion for delivering high-quality software solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarijamir&label=Profile%20views&color=0e75b6&style=flat" alt="aarijamir" /> </p>
@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👯 I’m looking to collaborate on **E-Commerce App**
+- 👯 I’m currently developing **E-Commerce App** in Flutter and Node.js
 
-- 🤝 I’m looking for help with **Chatting App**
+- 🤝 I’m looking for help with **Chatting App** in Flutter and Firebase
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.aarijspectre.monthlyexpensetrackin](https://play.google.com/store/apps/details?id=com.aarijspectre.monthlyexpensetrackin)
 
