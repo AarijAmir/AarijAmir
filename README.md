@@ -63,8 +63,8 @@ Maven • ANT • Git • Bitbucket • IntelliJ IDEA • Postman • Termius �
 #### 🧭 Software Engineering  
 UML (Unified Modeling Language) • Software Design Principles • Clean Architecture • SOLID Principles  
 
-#### 🌐 Frontend & Cross-Mobile Development  
-Flutter • Firebase • Node.js • MERN Stack • JSP/Servlets  
+#### 🌐 Web Frontend & Cross Platform Mobile Application Development  
+Flutter • React • JSP/Servlets  
 
 #### 🧱 Operating Systems  
 Linux • Windows  
