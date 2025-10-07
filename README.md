@@ -1,36 +1,141 @@
 [![MasterHead](https://i.pinimg.com/originals/81/52/58/81525851413fac11dca44e57076b396a.gif)](https://www.linkedin.com/in/aarij-amir-1b9a28174/)
 <h1 align="center">Hi 👋, I'm Aarij Amir</h1>
-<h3 align="center">Experienced in data structures, OOP, database design, algorithms. Proficient in Flutter mobile app development and Node.js backend development. Skilled in creating efficient data models, implementing clean code, and optimizing query performance. Strong problem-solving abilities and a passion for delivering high-quality software solutions.</h3>
+
+<h3 align="center">Software Engineer @ i2c Inc. | Fintech Specialist | Java-Backend Developer | Full-Stack Developer | Instructor at ANY Computing-IQ | Cross Platform - Mobile App Developer (Part-Time)</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarijamir&label=Profile%20views&color=0e75b6&style=flat" alt="aarijamir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@aarijamir" target="blank"><img src="https://img.shields.io/twitter/follow/@aarijamir?logo=twitter&style=for-the-badge" alt="@aarijamir" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Food Delivery App**
+### 💡 About Me  
+I’m a **Software Engineer with 2+ years of experience** in building **scalable backend systems**, currently thriving at **i2c Inc.**, a **Silicon Valley–headquartered top-tier software company**, while also serving as a **Core Computing Instructor** at **ANY Computing-IQ**.
 
-- 🌱 I’m currently learning **Node.js**
+🎓 As a **Position-Holder** from *The Islamia University of Bahawalpur* and a **Teaching Assistant** for *Design and Analysis of Algorithms* and *Advanced Object-Oriented Programming*, I built a **strong academic foundation** and **practical expertise** in Computer Science.
 
-- 👯 I’m currently developing **E-Commerce App** in Flutter and Node.js
+🚀 I started my journey in **Mobile App Development (Flutter/Dart)** but transitioned into the **Java Backend Ecosystem**, working on **Enterprise Applications**, **Batch Scheduling**, **System Design**, and **Scalable Architectures**.  
+Currently, I’m exploring:
+- **Spring Boot**, **Spring Cloud**, **Kafka**, **JCS**, **Jenkins**
+- **Microservices Architecture**  
+- **System Design & Distributed Systems**  
+- **MySQL**, **Informix**, **Linux-based Environments**
 
-- 🤝 I’m looking for help with **Chatting App** in Flutter and Firebase
+💙 I love the **Backend World** because it involves **System Design**, **Architecture**, and **Scalability** — but having **Mobile App Development** knowledge is a **plus point** that strengthens my **Full-Stack Perspective**.
 
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/details?id=com.aarijspectre.monthlyexpensetrackin](https://play.google.com/store/apps/details?id=com.aarijspectre.monthlyexpensetrackin)
+📱 I’ve also published a **Play Store app**, demonstrating end-to-end development skills from UI to backend.  
+🎯 **Dream Goal:** Become an **Oracle Certified Java Developer (OCJP/OCJD)**  
+🤖 **Future Interest:** Dive into **Deep Learning** & **AI-Driven Backend Systems**
 
-- 💬 Ask me about **Data Structures, Object Oriented Programming, Database Design, Flutter, Node.js**
+🎥 Check out my **YouTube Channel**: [Aarij & Yasir Computing IQ](https://www.youtube.com/@AarijandYasirComputingIQ)
 
-- 📫 How to reach me **aarijamir9@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🧠 Technical Expertise  
+
+#### 💻 Programming Languages  
+Core Java • Advanced Java • SQL • Dart • JavaScript • C# • Assembly Language  
+
+#### ⚙️ Backend Development  
+Java Core Backend • Spring Framework (Boot, Cloud, Security) • Kafka • JCS • Multithreading • Batch Scheduling • JMC (Java Mission Control)
+
+#### 🎨 Front-End & Cross-Mobile Development  
+- **Web Front-End:** React (Fundamentals)  
+- **Mobile Front-End:** Flutter (Main Expertise), Android Native using Java-8 (Basic Understanding)  
+
+#### 🗄️ RDBMS  
+MySQL • Informix • PostgreSQL • Database Design • SQL Optimization • Database Security  • Database Design (ERDs)
+
+#### 🗄️ No-SQL DBS
+MongoDB
+
+#### 🧩 Architecture & Frameworks  
+Microservices • Event-Driven Systems • Distributed Systems • Scalable Architecture • System Design Patterns  
+
+#### ☁️ Cloud Computing  
+IaaS • PaaS • SaaS • XaaS  
+
+#### 🧪 Testing & CI/CD  
+JUnit • Mockito • Jenkins • Mocks • Stubs  
+
+#### 🧰 Tools & Version Control  
+Maven • ANT • Git • Bitbucket • IntelliJ IDEA • Postman  
+
+#### 🧭 Software Engineering  
+UML (Unified Modeling Language) • Software Design Principles • Clean Architecture • SOLID Principles  
+
+#### 🌐 Frontend & Cross-Mobile Development  
+Flutter • Firebase • Node.js • MERN Stack • JSP/Servlets  
+
+#### 🧱 Operating Systems  
+Linux • Windows  
+
+#### 📚 Core CS Concepts  
+- Data Structures and Algorithms  
+- Design and Analysis of Algorithms  
+- Object-Oriented Programming (OOP)  
+- Object-Oriented Design (OOD)  
+- Design Patterns  
+- Architectural Patterns  
+- Clean Coding  
+
+---
+
+### 🏢 Professional Experience  
+
+**Software Engineer @ i2c Inc. (1.3+ Years) - Current**  
+**Flutter Developer @ Center for Advance Solitions (CAS). (1.3+ Years)**
+- Developing **enterprise-grade backend systems** in the **Java Stack**  
+- Working with **Spring Boot**, **Kafka**, **JCS**, and **Cloud Deployments**  
+- Implementing **Batch Schedulers**, **Transaction Systems**, and **Scalable APIs**  
+- Maintaining **high-availability** and **fault-tolerant** systems  
+
+**Core Computing Instructor @ ANY Computing-IQ**  
+- Teaching **Core CS fundamentals** (DSA, OOP, Algorithms, SE Principles)  
+- Mentoring students in **career growth** and **software engineering practices**  
+
+---
+
+### 📱 Featured Project  
+
+🎯 **[Monthly Expense Tracker App (Flutter)](https://play.google.com/store/apps/details?id=com.aarijspectre.monthlyexpensetrackin)**  
+A mobile app to **track monthly expenses**, **visualize budgets**, and **manage transactions** — built using **Flutter & Firebase**.  
+> My mobile development experience gives me an edge in **understanding client needs** and building **end-to-end solutions**.
+
+---
+
+### 💬 Ask Me About  
+**Java Backend**, **Spring Boot**, **System Design**, **Microservices**, **Kafka**, **Data Structures**, **OOP**, **Database Design**, **Flutter**, **Node.js**
+
+📫 Reach me at **aarijamir9@gmail.com**
+
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@aarijamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aarijamir" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aarijamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarijamir" height="30" width="40" /></a>
 <a href="https://fb.com/aarijamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aarijamir" height="30" width="40" /></a>
 <a href="https://instagram.com/aarij.spectre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarij.spectre" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AarijandYasirComputingIQ" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
+<a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.ibm.com/products/informix" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/ibm-informix.svg" alt="informix" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+</p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aarijamir&show_icons=true&locale=en&layout=compact" alt="aarijamir" /></p>
 
