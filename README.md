@@ -33,7 +33,7 @@ Currently, I’m exploring:
 ### 🧠 Technical Expertise  
 
 #### 💻 Programming Languages  
-Core Java • Advanced Java • SQL • Dart • JavaScript • C# • Assembly Language  
+Core and Advance Java • Dart • JavaScript • C# • Assembly Language  • SQL  
 
 #### ⚙️ Backend Development  
 Java Core Backend • Spring Framework (Boot, Cloud, Security) • Kafka • JCS • Multithreading • Batch Scheduling • JMC (Java Mission Control)
@@ -46,7 +46,7 @@ Java Core Backend • Spring Framework (Boot, Cloud, Security) • Kafka • JCS
 MySQL • Informix • PostgreSQL • Database Design • SQL Optimization • Database Security  • Database Design (ERDs)
 
 #### 🗄️ No-SQL DBS
-MongoDB
+MongoDB • Firebase-Firestore
 
 #### 🧩 Architecture & Frameworks  
 Microservices • Event-Driven Systems • Distributed Systems • Scalable Architecture • System Design Patterns  
@@ -57,8 +57,8 @@ IaaS • PaaS • SaaS • XaaS
 #### 🧪 Testing & CI/CD  
 JUnit • Mockito • Jenkins • Mocks • Stubs  
 
-#### 🧰 Tools & Version Control  
-Maven • ANT • Git • Bitbucket • IntelliJ IDEA • Postman  
+#### 🧰 Built-Tools & Version Control  
+Maven • ANT • Git • Bitbucket • IntelliJ IDEA • Postman • Termius • VSCode  
 
 #### 🧭 Software Engineering  
 UML (Unified Modeling Language) • Software Design Principles • Clean Architecture • SOLID Principles  
