@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/81/52/58/81525851413fac11dca44e57076b396a.gif)](https://www.linkedin.com/in/aarij-amir-1b9a28174/)
+(https://www.linkedin.com/in/aarij-amir-1b9a28174/)
 <h1 align="center">Hi 👋, I'm Aarij Amir</h1>
 
 <h3 align="center">Software Engineer @ i2c Inc. | Fintech Specialist | Java-Backend Developer | Full-Stack Developer | Instructor at ANY Computing-IQ | Cross Platform - Mobile App Developer (Part-Time)</h3>
