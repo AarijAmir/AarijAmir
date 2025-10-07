@@ -1,11 +1,10 @@
-(https://www.linkedin.com/in/aarij-amir-1b9a28174/)
 <h1 align="center">Hi 👋, I'm Aarij Amir</h1>
 
 <h3 align="center">Software Engineer @ i2c Inc. | Fintech Specialist | Java-Backend Developer | Full-Stack Developer | Instructor at ANY Computing-IQ | Cross Platform - Mobile App Developer (Part-Time)</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aarij&label=Profile%20views&color=0e75b6&style=flat" alt="aarij" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarijamir&label=Profile%20views&color=0e75b6&style=flat" alt="aarijamir" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarij" alt="aarij" /></a> </p>
 
 ---
 
@@ -105,7 +104,7 @@ A mobile app to **track monthly expenses**, **visualize budgets**, and **manage 
 ---
 
 ### 💬 Ask Me About  
-**Java Backend**, **Spring Boot**, **System Design**, **Microservices**, **Kafka**, **Data Structures**, **OOP**, **Database Design**, **Flutter**, **Node.js**
+**Java Backend**, **Spring Boot**, **System Design**, **Microservices**, **Kafka**, **Data Structures**, **OOP**, **Database Design**, **Flutter**
 
 📫 Reach me at **aarijamir9@gmail.com**
 
