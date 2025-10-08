@@ -23,7 +23,7 @@ Currently, I’m exploring:
 💙 I love the **Backend World** because it involves **System Design**, **Architecture**, and **Scalability** — but having **Mobile App Development** knowledge is a **plus point** that strengthens my **Full-Stack Perspective**.
 
 📱 I’ve also published a **Play Store app**, demonstrating end-to-end development skills from UI to backend.  
-🎯 **Dream Goal:** Become a **Java Chamption and Oracle Certified Java Developer (OCJP/OCJD)**  
+🎯 **Dream Goal:** Become a **Java Champion and Oracle Certified Java Developer (OCJP/OCJD)**  
 🤖 **Future Interest:** Dive into **Deep Learning** & **AI-Driven Backend Systems**
 
 🎥 Check out my **YouTube Channel**: [Aarij & Yasir Computing IQ](https://www.youtube.com/@AarijandYasirComputingIQ)
