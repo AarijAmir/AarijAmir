@@ -15,7 +15,7 @@ I’m a **Software Engineer with 2+ years of experience** in building **scalable
 
 🚀 I started my journey in **Mobile App Development (Flutter/Dart)** but transitioned into the **Java Backend Ecosystem**, working on **Enterprise Applications**, **Batch Scheduling**, **System Design**, and **Scalable Architectures**.  
 Currently, I’m exploring:
-- **Spring Boot**, **Spring Cloud**, **Kafka**, **JCS**, **Jenkins**
+- **Spring Boot**, **Spring Cloud**, **Spring Batch**, **Kafka**, **JCS**, **Jenkins**
 - **Microservices Architecture**  
 - **System Design & Distributed Systems**  
 - **MySQL**, **Informix**, **Linux-based Environments**
@@ -76,7 +76,10 @@ Linux • Windows
 - Object-Oriented Design (OOD)  
 - Design Patterns  
 - Architectural Patterns  
-- Clean Coding  
+- Clean Coding
+- Computer Networking
+- Computer Architecture
+- Database Design and SQL  
 
 ---
 
@@ -90,7 +93,7 @@ Linux • Windows
 - Maintaining **high-availability** and **fault-tolerant** systems  
 
 **Core Computing Instructor @ ANY Computing-IQ**  
-- Teaching **Core CS fundamentals** (DSA, OOP, Algorithms, SE Principles)  
+- Teaching **Core CS fundamentals** (DSA, OOP, DAA, DB, Software Engineering Principles)  
 - Mentoring students in **career growth** and **software engineering practices**  
 
 ---
