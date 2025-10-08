@@ -101,7 +101,7 @@ Linux • Windows
 ### 📱 Featured Project  
 
 🎯 **[Monthly Expense Tracker App (Flutter)](https://play.google.com/store/apps/details?id=com.aarijspectre.monthlyexpensetrackin)**  
-A mobile app to **track monthly expenses**, **visualize budgets**, and **manage transactions** — built using **Flutter & Firebase**.  
+A mobile app to **track monthly expenses**, **visualize budgets**, and **manage transactions** — built using **Flutter & SQLite Database**.  
 > My mobile development experience gives me an edge in **understanding client needs** and building **end-to-end solutions**.
 
 ---
