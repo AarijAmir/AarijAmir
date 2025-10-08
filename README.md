@@ -85,8 +85,8 @@ Linux • Windows
 
 ### 🏢 Professional Experience  
 
-**Software Engineer @ i2c Inc. (1.3+ Years) - Current**  
-**Flutter Developer @ Center for Advance Solitions (CAS). (1.3+ Years)**
+**Software Engineer @ i2c Inc. - Current**  
+**Flutter Developer @ Center for Advance Solitions (CAS)**
 - Developing **enterprise-grade backend systems** in the **Java Stack**  
 - Working with **Spring Boot**, **Kafka**, **JCS**, and **Cloud Deployments**  
 - Implementing **Batch Schedulers**, **Transaction Systems**, and **Scalable APIs**  
