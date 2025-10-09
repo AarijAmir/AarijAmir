@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aarij Amir</h1>
 
-<h3 align="center">Software Engineer @ i2c Inc. | Fintech Specialist | Java-Backend Developer | Full-Stack Developer | Instructor at ANY Computing-IQ | Cross Platform - Mobile App Developer (Part-Time)</h3>
+<h3 align="center">Software Engineer @ i2c Inc. | Fintech Specialist | Java-Backend Developer - Spring Ecosystem | Full-Stack Developer | Instructor at ANY Computing-IQ | Cross Platform - Mobile App Developer - Flutter (Part-Time)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aarij&label=Profile%20views&color=0e75b6&style=flat" alt="aarij" /> </p>
 
@@ -9,7 +9,7 @@
 ---
 
 ### 💡 About Me  
-I’m a **Software Engineer with 2+ years of experience** in building **scalable backend systems**, currently thriving at **i2c Inc.**, a **Silicon Valley–headquartered top-tier software company**, while also serving as a **Core Computing Instructor** at **ANY Computing-IQ**.
+I’m a **Software Engineer with 2.5+ years of experience** in building **scalable backend systems**, currently thriving at **i2c Inc.**, a **Silicon Valley–headquartered top-tier software company**, while also serving as a **Core Computing Instructor** at **ANY Computing-IQ**.
 
 🎓 As a **Position-Holder** from *The Islamia University of Bahawalpur* and a **Teaching Assistant** for *Design and Analysis of Algorithms* and *Advanced Object-Oriented Programming*, I built a **strong academic foundation** and **practical expertise** in Computer Science.
 
