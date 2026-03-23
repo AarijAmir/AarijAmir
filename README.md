@@ -2,19 +2,33 @@
 
 <h3 align="center">Software Engineer @ i2c Inc. | Fintech Specialist | Java-Backend Developer - Spring Ecosystem | Full-Stack Developer | Instructor at ANY Computing-IQ | Cross Platform - Mobile App Developer - Flutter (Part-Time)</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aarij&label=Profile%20views&color=0e75b6&style=flat" alt="aarij" /> </p>
+<p align="center">
+  <a href="https://anycomputingiq.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-orange?style=for-the-badge" alt="Portfolio Website" />
+  </a>
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarij" alt="aarij" /></a> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=aarij&label=Profile%20views&color=0e75b6&style=flat" alt="aarij" /> 
+</p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aarij" alt="aarij" />
+  </a> 
+</p>
 
 ---
 
 ### 💡 About Me  
-I’m a **Software Engineer with 2.5+ years of experience** in building **scalable backend systems**, currently thriving at **i2c Inc.**, a **Silicon Valley–headquartered top-tier software company**, while also serving as a **Core Computing Instructor** at **ANY Computing-IQ**.
+I'm a **Software Engineer with 2.5+ years of experience** in building **scalable backend systems**, currently thriving at **i2c Inc.**, a **Silicon Valley–headquartered top-tier software company**, while also serving as a **Core Computing Instructor** at **ANY Computing-IQ**.
+
+🌐 **Visit my portfolio:** [anycomputingiq.github.io](https://anycomputingiq.github.io)
 
 🎓 As a **Position-Holder** from *The Islamia University of Bahawalpur* and a **Teaching Assistant** for *Design and Analysis of Algorithms* and *Advanced Object-Oriented Programming*, I built a **strong academic foundation** and **practical expertise** in Computer Science.
 
 🚀 I started my journey in **Mobile App Development (Flutter/Dart)** but transitioned into the **Java Backend Ecosystem**, working on **Enterprise Applications**, **Batch Scheduling**, **System Design**, and **Scalable Architectures**.  
-Currently, I’m exploring:
+Currently, I'm exploring:
 - **Spring Boot**, **Spring Cloud**, **Spring Batch**, **Kafka**, **JCS**, **Jenkins**
 - **Microservices Architecture**  
 - **System Design & Distributed Systems**  
@@ -22,7 +36,7 @@ Currently, I’m exploring:
 
 💙 I love the **Backend World** because it involves **System Design**, **Architecture**, and **Scalability** — but having **Mobile App Development** knowledge is a **plus point** that strengthens my **Full-Stack Perspective**.
 
-📱 I’ve also published a **Play Store app**, demonstrating end-to-end development skills from UI to backend.  
+📱 I've also published a **Play Store app**, demonstrating end-to-end development skills from UI to backend.  
 🎯 **Dream Goal:** Become a **Java Champion and Oracle Certified Java Developer (OCJP/OCJD)**  
 🤖 **Future Interest:** Dive into **Deep Learning** & **AI-Driven Backend Systems**
 
@@ -33,7 +47,7 @@ Currently, I’m exploring:
 ### 🧠 Technical Expertise  
 
 #### 💻 Programming Languages  
-Core and Advance Java • Dart • JavaScript • C# • Assembly Language  • SQL  
+Core and Advance Java • Dart • JavaScript • C# • Assembly Language • SQL  
 
 #### ⚙️ Backend Development  
 Java Core Backend • Spring Framework (Boot, Cloud, Security) • Kafka • JCS • Multithreading • Batch Scheduling • JMC (Java Mission Control)
@@ -43,7 +57,7 @@ Java Core Backend • Spring Framework (Boot, Cloud, Security) • Kafka • JCS
 - **Mobile Front-End:** Flutter (Main Expertise), Android Native using Java-8 (Basic Understanding)  
 
 #### 🗄️ RDBMS  
-MySQL • Informix • PostgreSQL • Database Design • SQL Optimization • Database Security  • Database Design (ERDs)
+MySQL • Informix • PostgreSQL • Database Design • SQL Optimization • Database Security • Database Design (ERDs)
 
 #### 🗄️ No-SQL DBS
 MongoDB • Firebase-Firestore
@@ -86,7 +100,7 @@ Linux • Windows
 ### 🏢 Professional Experience  
 
 **Software Engineer @ i2c Inc. - Current**  
-**Flutter Developer @ Center for Advance Solitions (CAS)**
+**Flutter Developer @ Center for Advance Solutions (CAS)**
 - Developing **enterprise-grade backend systems** in the **Java Stack**  
 - Working with **Spring Boot**, **Kafka**, **JCS**, and **Cloud Deployments**  
 - Implementing **Batch Schedulers**, **Transaction Systems**, and **Scalable APIs**  
@@ -109,17 +123,19 @@ A mobile app to **track monthly expenses**, **visualize budgets**, and **manage 
 ### 💬 Ask Me About  
 **Java Backend**, **Spring Boot**, **System Design**, **Microservices**, **Kafka**, **Data Structures**, **OOP**, **Database Design**, **Flutter**
 
-📫 Reach me at **aarijamir9@gmail.com**
+📫 Reach me at **aarijamir9@gmail.com**  
+🌐 Portfolio: **[anycomputingiq.github.io](https://anycomputingiq.github.io)**
 
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@aarijamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aarijamir" height="30" width="40" /></a>
+<a href="https://anycomputingiq.github.io" target="blank" title="Portfolio Website"><img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="website" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aarij-amir-1b9a28174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarijamir" height="30" width="40" /></a>
-<a href="https://web.facebook.com/muhammadaarij.amir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aarijamir" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aarij.java/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarij.spectre" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@AarijandYasirComputingIQ" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="30" width="40" /></a>
+<a href="https://twitter.com/@aarijamir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@aarijamir" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aarij.java/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aarij.spectre" height="30" width="40" /></a>
+<a href="https://web.facebook.com/muhammadaarij.amir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aarijamir" height="30" width="40" /></a>
 </p>
 
 ---
